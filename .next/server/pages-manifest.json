@@ -10,7 +10,7 @@
   "/getStarted": "pages/getStarted.html",
   "/": "pages/index.html",
   "/openCamera": "pages/openCamera.html",
-  "/tabsLink": "pages/tabsLink.html",
   "/tabs": "pages/tabs.html",
+  "/tabsLink": "pages/tabsLink.html",
   "/404": "pages/404.html"
 }
