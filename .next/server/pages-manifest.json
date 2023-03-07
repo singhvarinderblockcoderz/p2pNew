@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/faceImpression": "pages/api/faceImpression.js",
+  "/api/login/walletCheck": "pages/api/login/walletCheck.js",
+  "/api/register": "pages/api/register.js",
+  "/_document": "pages/_document.js",
+  "/awesome": "pages/awesome.html",
+  "/getStarted": "pages/getStarted.html",
+  "/": "pages/index.html",
+  "/openCamera": "pages/openCamera.html",
+  "/tabsLink": "pages/tabsLink.html",
+  "/tabs": "pages/tabs.html",
+  "/404": "pages/404.html"
+}
